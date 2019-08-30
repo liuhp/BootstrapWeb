@@ -141,7 +141,7 @@
     line-height: 1;
     color: #777;
 }
-@media screen and (min-width:160px){
+@media screen and (max-width:160px){
     .thumbnail{
         height:380px;
     }
